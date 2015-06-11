@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Ihatehandles\\Sweet\\": "src"
+            "Ihatehandles\\Sweet\\": "src/"
         }
     }
 }
