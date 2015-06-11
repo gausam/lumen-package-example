@@ -2,7 +2,7 @@
     "name": "ihatehandles/sweet",
     "description": "Example Lumen Package",
     "keywords": ["lumen","laravel","template", "example"],
-    "homepage": "https://github.com/ihatehandles/lumen-package-template",
+    "homepage": "https://github.com/ihatehandles/lumen-package-example",
     "license": "MIT",
     "authors": [
         {
