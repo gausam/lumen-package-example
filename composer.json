@@ -1,0 +1,13 @@
+{
+    "name": "ihatehandles/sweet",
+    "description": "Lumen Package Template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam",
+            "email": "sam.takunda@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
